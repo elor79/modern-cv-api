@@ -1,7 +1,6 @@
 {
   "name": "modern-cv-api",
   "version": "1.0.0",
-  "type": "module",
   "description": "API backend for Eduard Lorenz CV - AI Chat endpoint",
   "scripts": {
     "dev": "vercel dev",
