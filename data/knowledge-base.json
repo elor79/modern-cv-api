@@ -1,0 +1,4705 @@
+{
+  "extracted_at": "2025-11-04T22:43:35.907Z",
+  "metadata": {
+    "total_portfolio_items": 62,
+    "total_experience": 8,
+    "total_skills": 51,
+    "total_testimonials": 10
+  },
+  "personal": {
+    "name": "Eduard Lorenz",
+    "title": "Group Manager Media Creation",
+    "subtitle": "3D Visualization & Digital Media Strategy Expert",
+    "email": "info@elorenz.ch",
+    "phone": "078 896 60 64",
+    "location": "4224 Nenzlingen",
+    "address": "Feldweg 2",
+    "birthDate": "1. Februar 1979",
+    "birthplace": "Basel",
+    "nationality": "Germany (C)",
+    "maritalStatus": "Married, four children (21-, 18-, 16- and 9-year-old)",
+    "profileImage": "/images/eddie.jpg"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Group Manager Global Media Production",
+      "company": "Medartis AG",
+      "location": "",
+      "startDate": "2025-01-01",
+      "endDate": null,
+      "isCurrentRole": true,
+      "description": "Leading the global media production unit with responsibility for team management in 2D and 3D, process alignment, and international coordination. Oversight of the CMX brand rebranding, DAM system management, and the development of tailored Python tools to enhance automation and workflow efficiency.",
+      "achievements": [
+        "Team management in 2D and 3D",
+        "Process alignment and international coordination",
+        "CMX brand rebranding oversight",
+        "DAM system management",
+        "Python tool development for automation",
+        "Workflow efficiency optimization",
+        "Support for subsidiaries and distributors",
+        "Cross-department collaboration (Corporate Communications, Events, R&D, Education, HR)"
+      ],
+      "technologies": [],
+      "sortOrder": 0
+    },
+    {
+      "id": 2,
+      "title": "Teamlead Global Media Production",
+      "company": "Medartis AG",
+      "location": "",
+      "startDate": "2022-01-01",
+      "endDate": "2025-12-31",
+      "isCurrentRole": false,
+      "description": "Directed day-to-day media production activities with a focus on process optimization and creative workflow improvements. Introduced and rolled out a new DAM system, and created Python scripts to automate recurring tasks.",
+      "achievements": [
+        "Process optimization and workflow improvements",
+        "DAM system introduction and rollout",
+        "Python automation script development",
+        "Support for subsidiaries and distributors",
+        "Department collaboration (Corporate Communications, Events, R&D, Education, HR)"
+      ],
+      "technologies": [],
+      "sortOrder": 1
+    },
+    {
+      "id": 3,
+      "title": "CMX Designer",
+      "company": "Medartis AG",
+      "location": "",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "isCurrentRole": false,
+      "description": "Direct support for physicians, practices, and hospitals in surgical planning. Design of patient-specific implants, drill and cutting guides, and bone models for reconstruction, correction, and revision. Modeling with Freeform, segmentation with Mimics, and continuous process improvement through COP.",
+      "achievements": [
+        "Patient-specific implant design",
+        "Surgical planning support for physicians",
+        "Drill and cutting guide creation",
+        "Bone model design for reconstruction",
+        "Freeform modeling expertise",
+        "Mimics segmentation",
+        "End-to-end case management",
+        "Surgery support from order to operation"
+      ],
+      "technologies": [
+        "3D Systems Geomagic Freeform Plus",
+        "Materialise Mimics",
+        "Touch X Haptic Device",
+        "DICOM processing"
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": 4,
+      "title": "Senior Digital Media Designer",
+      "company": "Medartis AG",
+      "location": "",
+      "startDate": "2014-01-01",
+      "endDate": "2021-12-31",
+      "isCurrentRole": false,
+      "description": "Comprehensive digital and print media production including catalogs, product information, surgical techniques, trade show booths, websites, presentations, and photography. Specialized in 3D visuals, animations, and WebGL interactive visualizations for medical products and surgical education.",
+      "achievements": [
+        "Print production: catalogs, product information, surgical techniques, trade show materials",
+        "Digital: website design, social media, PowerPoint templates, PDF forms",
+        "Photography: Corporate, Products, Portraits, Events, Cadaveric Workshops & Surgeries",
+        "3D: visuals and animations (teasers, trailers, surgical techniques, educational content)",
+        "WebGL: interactive product and booth visualizations",
+        "Corporate Design: development, enhancement, and maintenance"
+      ],
+      "technologies": [
+        "Adobe Creative Suite",
+        "Cinema4D",
+        "Blender",
+        "WebGL (Boxshot Koru, Sketchfab)",
+        "Photography (Studio & Medical)",
+        "Final Cut Pro",
+        "After Effects"
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": 5,
+      "title": "Editor of Images (Bildredaktor)",
+      "company": "Coop Presse",
+      "location": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-31",
+      "isCurrentRole": false,
+      "description": "Picture Editor in the Press/Layout department. Editing and sourcing photos from agencies, commissioning photographers, and supporting studio and on-location shoots. Close collaboration with editors of all Coop publications including newspaper, employee magazine, and Pronto-News.",
+      "achievements": [
+        "Photo editing and agency sourcing",
+        "Photographer commissioning and coordination",
+        "Studio and on-location shoot support",
+        "Cross-publication collaboration (newspaper, employee magazine, Pronto-News)",
+        "Engaged and initiative-driven approach",
+        "Excellent work organization",
+        "High service and customer orientation"
+      ],
+      "technologies": [],
+      "sortOrder": 4
+    },
+    {
+      "id": 6,
+      "title": "Deputy Head of Editorial Production",
+      "company": "Baslerstab",
+      "location": "",
+      "startDate": "2011-01-01",
+      "endDate": "2013-12-31",
+      "isCurrentRole": false,
+      "description": "Production of editorial content, integration of PR production into the editorial department, development and implementation of a new newspaper concept. Writing of editorial articles, realization of people reportages, photography for front stories, supervision of production processes and interns.",
+      "achievements": [
+        "Editorial content production and PR integration",
+        "New newspaper concept development and implementation",
+        "Editorial article writing",
+        "People reportage realization",
+        "Front story photography",
+        "Internal photography training",
+        "Intern supervision",
+        "Online content maintenance (CMS)",
+        "Trade fair appearance planning (Muba 2012, 2013, 2014)"
+      ],
+      "technologies": [
+        "Woodwing CMS",
+        "InDesign",
+        "InCopy",
+        "Photography",
+        "Editorial production tools"
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": 7,
+      "title": "Head of PR Production (Producer Commercial Content)",
+      "company": "Baslerstab",
+      "location": "",
+      "startDate": "2008-01-01",
+      "endDate": "2011-12-31",
+      "isCurrentRole": false,
+      "description": "Realization and production of PR articles, inserts and commercials for clients. Production of in-house sales documents, photography, PR text writing, and client support. Supervision of entire production process from concept to delivery.",
+      "achievements": [
+        "PR article and commercial production",
+        "Client insert creation",
+        "In-house sales documentation (fact sheets, pricing)",
+        "Photography services",
+        "PR text writing and editing",
+        "Address database development and maintenance",
+        "Client support and consultation",
+        "Production process supervision"
+      ],
+      "technologies": [
+        "Woodwing Redaktions-System",
+        "InDesign",
+        "InCopy",
+        "Photoshop",
+        "Illustrator",
+        "Adobe Acrobat",
+        "Bridge",
+        "CMS",
+        "MS Office"
+      ],
+      "sortOrder": 6
+    },
+    {
+      "id": 8,
+      "title": "Layout, Photography, Graphics & Customer Service",
+      "company": "Wirb, Basel",
+      "location": "",
+      "startDate": "2000-01-01",
+      "endDate": "2007-12-31",
+      "isCurrentRole": false,
+      "description": "Comprehensive graphic design and production services including commercials, brochures, newsletters, magazines, POS materials, posters, flyers, business cards, public reports, and newspaper inserts. Graphics, text creation, photography, advanced image processing, web administration, and data archiving.",
+      "achievements": [
+        "Layout design for diverse print materials",
+        "Commercial and brochure production",
+        "Newsletter and magazine design",
+        "POS materials and poster creation",
+        "Photography and image processing (RAW, masking, cropping, retouching, color profiles)",
+        "Web administration (CMS)",
+        "Data archiving",
+        "Client relationship management",
+        "Lifestyle magazine layout collaboration"
+      ],
+      "technologies": [
+        "Adobe Creative Suite",
+        "Photography",
+        "CMS",
+        "Image processing",
+        "Print production"
+      ],
+      "sortOrder": 7
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 302,
+      "title": "CMX Key Visual - Female Orthognathics Frontal",
+      "description": "CMX rebranding campaign key visual showcasing orthognathic surgery planning with AI-generated imagery",
+      "shortDescription": "CMX Campaign - AI-Generated Imagery",
+      "category": "AI & Innovation",
+      "tags": [
+        "CMX Campaign",
+        "AI-Generated Imagery"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/cmx_keyvisual_female_orthognathics_frontal_1.jpg"
+      ],
+      "projectUrl": "/highres/cmx_keyvisual_female_orthognathics_frontal_1.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 0
+    },
+    {
+      "id": 303,
+      "title": "CMX Key Visual - Female Orthognathics Frontal",
+      "description": "CMX rebranding campaign key visual showcasing orthognathic surgery planning with AI-generated imagery",
+      "shortDescription": "CMX Campaign - AI-Generated Imagery",
+      "category": "AI & Innovation",
+      "tags": [
+        "CMX Campaign",
+        "AI-Generated Imagery"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/cmx_keyvisual_female_orthognathics_frontal_2.jpg"
+      ],
+      "projectUrl": "/highres/cmx_keyvisual_female_orthognathics_frontal_2.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 1
+    },
+    {
+      "id": 304,
+      "title": "CMX Key Visual - Male Orthognathics",
+      "description": "CMX rebranding campaign key visual for male orthognathic surgery applications",
+      "shortDescription": "CMX Campaign - AI-Generated Imagery",
+      "category": "AI & Innovation",
+      "tags": [
+        "CMX Campaign",
+        "AI-Generated Imagery"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/cmx_keyvisual_male_orthognathics.jpg"
+      ],
+      "projectUrl": "/highres/cmx_keyvisual_male_orthognathics.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 2
+    },
+    {
+      "id": 263,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/C21-0044.CSDF_C__Seite_12.png"
+      ],
+      "projectUrl": "/highres/C21-0044.CSDF_C__Seite_12.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 3
+    },
+    {
+      "id": 264,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/C21-0044.CSDF_C__Seite_121.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 4
+    },
+    {
+      "id": 265,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/C21-0044.CSDF_C__Seite_15.png"
+      ],
+      "projectUrl": "/highres/C21-0044.CSDF_C__Seite_15.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 5
+    },
+    {
+      "id": 266,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/C21-0044.CSDF_C__Seite_16.png"
+      ],
+      "projectUrl": "/highres/C21-0044.CSDF_C__Seite_16.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 6
+    },
+    {
+      "id": 267,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/C21-0044.CSDF_C__Seite_19.png"
+      ],
+      "projectUrl": "/highres/C21-0044.CSDF_C__Seite_19.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 7
+    },
+    {
+      "id": 268,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/C21-0044.CSDF_C__Seite_25.png"
+      ],
+      "projectUrl": "/highres/C21-0044.CSDF_C__Seite_25.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 8
+    },
+    {
+      "id": 278,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Folie1.png"
+      ],
+      "projectUrl": "/highres/Folie1.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 9
+    },
+    {
+      "id": 279,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Folie11.png"
+      ],
+      "projectUrl": "/highres/Folie11.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 10
+    },
+    {
+      "id": 280,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Folie12.png"
+      ],
+      "projectUrl": "/highres/Folie12.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 11
+    },
+    {
+      "id": 281,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Folie7.png"
+      ],
+      "projectUrl": "/highres/Folie7.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 12
+    },
+    {
+      "id": 282,
+      "title": "CMX Patient-Specific - Mandible Reconstruction",
+      "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+      "shortDescription": "Patient-Specific Solutions - Mandible Surgery Planning",
+      "category": "AI & Innovation",
+      "tags": [
+        "Patient-Specific Solutions",
+        "Mandible Surgery Planning"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Folie9.png"
+      ],
+      "projectUrl": "/highres/Folie9.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 13
+    },
+    {
+      "id": 243,
+      "title": "Medical Imaging - CT Scan Planning",
+      "description": "CT scan segmentation and 3D reconstruction for surgical planning",
+      "shortDescription": "Medical Imaging - CT Segmentation",
+      "category": "AI & Innovation",
+      "tags": [
+        "Medical Imaging",
+        "CT Segmentation"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/0544_001.png"
+      ],
+      "projectUrl": "/highres/0544_001.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 14
+    },
+    {
+      "id": 283,
+      "title": "3D Animation - Foot System",
+      "description": "Animated surgical technique demonstration for hallux valgus correction",
+      "shortDescription": "3D Animation - Surgical Techniques",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Animation",
+        "Surgical Techniques"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Foot_Hallux_System_Low-Key.jpg"
+      ],
+      "projectUrl": "/highres/Foot_Hallux_System_Low-Key.tif",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 15
+    },
+    {
+      "id": 309,
+      "title": "3D Animation - Foot System",
+      "description": "Animated surgical technique demonstration for hallux valgus correction",
+      "shortDescription": "3D Animation - Surgical Techniques",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Animation",
+        "Surgical Techniques"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/foot_brice_1281x1920.jpg"
+      ],
+      "projectUrl": "/highres/foot_brice_1281x1920.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 16
+    },
+    {
+      "id": 310,
+      "title": "3D Animation - Hand System",
+      "description": "Hand fracture fixation technique with precise anatomical 3D rendering",
+      "shortDescription": "3D Animation - Surgical Techniques",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Animation",
+        "Surgical Techniques"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/hand_arigoni_1281x1920.jpg"
+      ],
+      "projectUrl": "/highres/hand_arigoni_1281x1920.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 17
+    },
+    {
+      "id": 314,
+      "title": "3D Animation - Shoulder System",
+      "description": "Shoulder reconstruction surgical technique with detailed 3D animation",
+      "shortDescription": "3D Animation - Surgical Techniques",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Animation",
+        "Surgical Techniques"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/shoulder_manuel_1281x1920.jpg"
+      ],
+      "projectUrl": "/highres/shoulder_manuel_1281x1920.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 18
+    },
+    {
+      "id": 315,
+      "title": "3D Animation - Wrist System",
+      "description": "Wrist fracture fixation technique animation showcasing step-by-step procedures",
+      "shortDescription": "3D Animation - Surgical Techniques",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Animation",
+        "Surgical Techniques"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/wrist_simon_1281x1920.jpg"
+      ],
+      "projectUrl": "/highres/wrist_simon_1281x1920.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 19
+    },
+    {
+      "id": 316,
+      "title": "3D Animation - Wrist System",
+      "description": "Wrist fracture fixation technique animation showcasing step-by-step procedures",
+      "shortDescription": "3D Animation - Surgical Techniques",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Animation",
+        "Surgical Techniques"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/wsd_tech_visual.png"
+      ],
+      "projectUrl": "/highres/wsd_tech_visual.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 20
+    },
+    {
+      "id": 301,
+      "title": "Product Key Visual - Clavicle System",
+      "description": "High-impact 3D product visualization for clavicle fracture treatment system",
+      "shortDescription": "3D Visualization - Product Key Visuals",
+      "category": "3D Visualization",
+      "tags": [
+        "3D Visualization",
+        "Product Key Visuals"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/clavicle_fracture_visual_website_header_2.png"
+      ],
+      "projectUrl": "/highres/clavicle_fracture_visual_website_header_2.psd",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 21
+    },
+    {
+      "id": 277,
+      "title": "Product Rendering - Instrument System",
+      "description": "Photorealistic 3D product rendering of surgical instrument system",
+      "shortDescription": "Product Rendering - 3D Visualization",
+      "category": "3D Visualization",
+      "tags": [
+        "Product Rendering",
+        "3D Visualization"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/FPL_HP_90dpi_db_extra_large2.jpg"
+      ],
+      "projectUrl": "/highres/FPL_HP_90dpi_db_extra_large2.tif",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 22
+    },
+    {
+      "id": 311,
+      "title": "Product Rendering - Sterile Container",
+      "description": "High-quality product visualization of sterile container system",
+      "shortDescription": "Product Rendering - 3D Visualization",
+      "category": "3D Visualization",
+      "tags": [
+        "Product Rendering",
+        "3D Visualization"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/iso.png"
+      ],
+      "projectUrl": "/highres/iso.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 23
+    },
+    {
+      "id": 249,
+      "title": "WebGL Interactive - Midface System",
+      "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+      "shortDescription": "Interactive 3D - WebGL Visualizations",
+      "category": "3D Visualization",
+      "tags": [
+        "Interactive 3D",
+        "WebGL Visualizations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Bildschirmfoto_2020-09-21_um_15.26.54.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 24
+    },
+    {
+      "id": 250,
+      "title": "WebGL Interactive - Midface System",
+      "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+      "shortDescription": "Interactive 3D - WebGL Visualizations",
+      "category": "3D Visualization",
+      "tags": [
+        "Interactive 3D",
+        "WebGL Visualizations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Bildschirmfoto_2020-09-21_um_15.27.14.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 25
+    },
+    {
+      "id": 251,
+      "title": "WebGL Interactive - Midface System",
+      "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+      "shortDescription": "Interactive 3D - WebGL Visualizations",
+      "category": "3D Visualization",
+      "tags": [
+        "Interactive 3D",
+        "WebGL Visualizations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Bildschirmfoto_2020-09-21_um_15.27.26.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 26
+    },
+    {
+      "id": 252,
+      "title": "WebGL Interactive - Midface System",
+      "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+      "shortDescription": "Interactive 3D - WebGL Visualizations",
+      "category": "3D Visualization",
+      "tags": [
+        "Interactive 3D",
+        "WebGL Visualizations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/Bildschirmfoto_2020-09-21_um_15.29.38.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 27
+    },
+    {
+      "id": 313,
+      "title": "WebGL Interactive - Midface System",
+      "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+      "shortDescription": "Interactive 3D - WebGL Visualizations",
+      "category": "3D Visualization",
+      "tags": [
+        "Interactive 3D",
+        "WebGL Visualizations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/midface_complete.png"
+      ],
+      "projectUrl": "/highres/midface_complete.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 28
+    },
+    {
+      "id": 285,
+      "title": "Product Information - APTUS Shoulder Clavicle System",
+      "description": "Product information brochure for APTUS Shoulder Clavicle System 2.8, featuring comprehensive graphics and layout design for medical devices",
+      "shortDescription": "Product Information - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Product Information",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/R_CMX-20000001_v0_EN_APTUS_Product_Information.png"
+      ],
+      "projectUrl": "/highres/R_CMX-20000001_v0_EN_APTUS_Product_Information.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 29
+    },
+    {
+      "id": 286,
+      "title": "Product Information - MODUS System",
+      "description": "Product information brochure for MODUS System showcasing detailed medical device specifications and applications",
+      "shortDescription": "Product Information - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Product Information",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/R_CMX-30000001_v0_EN_MODUS_Product_Information.png"
+      ],
+      "projectUrl": "/highres/R_CMX-30000001_v0_EN_MODUS_Product_Information.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 30
+    },
+    {
+      "id": 287,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-00000001_v2_web.png"
+      ],
+      "projectUrl": "/highres/SHOULDER-00000001_v2_web.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 31
+    },
+    {
+      "id": 288,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-00000001_v2_web1.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 32
+    },
+    {
+      "id": 289,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-00000001_v2_web2.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 33
+    },
+    {
+      "id": 290,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-00000001_v2_web3.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 34
+    },
+    {
+      "id": 291,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-01010101_v2_2020-08_final_II.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 35
+    },
+    {
+      "id": 292,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-01010101_v2_2020-08_final_II1.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 36
+    },
+    {
+      "id": 293,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-01010101_v2_2020-08_final_II2.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 37
+    },
+    {
+      "id": 294,
+      "title": "Surgical Technique - Shoulder System",
+      "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+      "shortDescription": "Surgical Techniques - Graphics & Layout",
+      "category": "Medical Documentation",
+      "tags": [
+        "Surgical Techniques",
+        "Graphics & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/SHOULDER-01010101_v2_2020-08_final_II3.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 38
+    },
+    {
+      "id": 299,
+      "title": "ATL Campaign Visual - Portrait",
+      "description": "Above-the-line campaign portrait photography showcasing athletic and professional imagery",
+      "shortDescription": "Campaign Photography - ATL Visuals",
+      "category": "Photography",
+      "tags": [
+        "Campaign Photography",
+        "ATL Visuals"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/andre_vogt_DSC_5722_bw.png"
+      ],
+      "projectUrl": "/highres/andre_vogt_DSC_5722_bw.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 39
+    },
+    {
+      "id": 300,
+      "title": "ATL Campaign Visual - Portrait",
+      "description": "Above-the-line campaign portrait photography showcasing athletic and professional imagery",
+      "shortDescription": "Campaign Photography - ATL Visuals",
+      "category": "Photography",
+      "tags": [
+        "Campaign Photography",
+        "ATL Visuals"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/andre_vogt_DSC_5722_bw1.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 40
+    },
+    {
+      "id": 312,
+      "title": "ATL Campaign Visual - Portrait",
+      "description": "Above-the-line campaign portrait photography showcasing athletic and professional imagery",
+      "shortDescription": "Campaign Photography - ATL Visuals",
+      "category": "Photography",
+      "tags": [
+        "Campaign Photography",
+        "ATL Visuals"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/kv_DSC_5869.png"
+      ],
+      "projectUrl": "/highres/kv_DSC_5869.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 41
+    },
+    {
+      "id": 305,
+      "title": "Corporate Photography - Customer Service",
+      "description": "Customer service and support team photography for corporate communications",
+      "shortDescription": "Corporate Photography - Business Operations",
+      "category": "Photography",
+      "tags": [
+        "Corporate Photography",
+        "Business Operations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/csm_customer_service_tiny_b4ca23e1ad.jpg"
+      ],
+      "projectUrl": "/highres/csm_customer_service_tiny_b4ca23e1ad.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 42
+    },
+    {
+      "id": 308,
+      "title": "Portrait Photography - Executive",
+      "description": "Professional executive portrait photography with dramatic studio lighting",
+      "shortDescription": "Portrait Photography - Studio Portraits",
+      "category": "Photography",
+      "tags": [
+        "Portrait Photography",
+        "Studio Portraits"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/eddie.jpg"
+      ],
+      "projectUrl": "/highres/eddie.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 43
+    },
+    {
+      "id": 317,
+      "title": "Portrait Photography - Executive",
+      "description": "Professional executive portrait photography with dramatic studio lighting",
+      "shortDescription": "Portrait Photography - Studio Portraits",
+      "category": "Photography",
+      "tags": [
+        "Portrait Photography",
+        "Studio Portraits"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/zz_elo_2019_1.jpg"
+      ],
+      "projectUrl": "/highres/zz_elo_2019_1.jpeg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 44
+    },
+    {
+      "id": 318,
+      "title": "Portrait Photography - Executive",
+      "description": "Professional executive portrait photography with dramatic studio lighting",
+      "shortDescription": "Portrait Photography - Studio Portraits",
+      "category": "Photography",
+      "tags": [
+        "Portrait Photography",
+        "Studio Portraits"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/zz_elo_2019_2.jpg"
+      ],
+      "projectUrl": "/highres/zz_elo_2019_2.jpeg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 45
+    },
+    {
+      "id": 269,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_0995.jpg"
+      ],
+      "projectUrl": "/highres/DSC_0995.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 46
+    },
+    {
+      "id": 270,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_2314.png"
+      ],
+      "projectUrl": "/highres/DSC_2314.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 47
+    },
+    {
+      "id": 271,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_5988.png"
+      ],
+      "projectUrl": "/highres/DSC_5988.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 48
+    },
+    {
+      "id": 272,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_6275.png"
+      ],
+      "projectUrl": "/highres/DSC_6275.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 49
+    },
+    {
+      "id": 273,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_6325.jpg"
+      ],
+      "projectUrl": "/highres/DSC_6325.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 50
+    },
+    {
+      "id": 274,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_6360.jpg"
+      ],
+      "projectUrl": "/highres/DSC_6360.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 51
+    },
+    {
+      "id": 275,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_6500.jpg"
+      ],
+      "projectUrl": "/highres/DSC_6500.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 52
+    },
+    {
+      "id": 276,
+      "title": "Product Photography - Medical Devices",
+      "description": "High-quality product photography of medical implants and surgical instruments",
+      "shortDescription": "Product Photography - Medical Devices",
+      "category": "Photography",
+      "tags": [
+        "Product Photography",
+        "Medical Devices"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/DSC_6527.jpg"
+      ],
+      "projectUrl": "/highres/DSC_6527.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 53
+    },
+    {
+      "id": 244,
+      "title": "Annual Report 2018 - Content",
+      "description": "Annual report 2018 content pages featuring professional photography and editorial design",
+      "shortDescription": "Annual Report - Photography & Layout",
+      "category": "Print & Editorial",
+      "tags": [
+        "Annual Report",
+        "Photography & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/190225_2018_annual_report_print_inhalt.png"
+      ],
+      "projectUrl": "/highres/190225_2018_annual_report_print_inhalt.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 54
+    },
+    {
+      "id": 245,
+      "title": "Annual Report 2018 - Content",
+      "description": "Annual report 2018 content pages featuring professional photography and editorial design",
+      "shortDescription": "Annual Report - Photography & Layout",
+      "category": "Print & Editorial",
+      "tags": [
+        "Annual Report",
+        "Photography & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/190225_2018_annual_report_print_inhalt1.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 55
+    },
+    {
+      "id": 246,
+      "title": "Annual Report 2018 - Content",
+      "description": "Annual report 2018 content pages featuring professional photography and editorial design",
+      "shortDescription": "Annual Report - Photography & Layout",
+      "category": "Print & Editorial",
+      "tags": [
+        "Annual Report",
+        "Photography & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/190225_2018_annual_report_print_inhalt2.png"
+      ],
+      "projectUrl": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 56
+    },
+    {
+      "id": 247,
+      "title": "Annual Report 2018 - Cover",
+      "description": "Annual report 2018 cover design with impactful visual presentation",
+      "shortDescription": "Annual Report - Photography & Layout",
+      "category": "Print & Editorial",
+      "tags": [
+        "Annual Report",
+        "Photography & Layout"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/190225_2018_annual_report_print_umschlag.png"
+      ],
+      "projectUrl": "/highres/190225_2018_annual_report_print_umschlag.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": true,
+      "sortOrder": 57
+    },
+    {
+      "id": 248,
+      "title": "Booth Dimensions & Planning",
+      "description": "Detailed booth dimensions and technical planning documentation",
+      "shortDescription": "Booth Concepts - Technical Documentation",
+      "category": "Exhibition Design",
+      "tags": [
+        "Booth Concepts",
+        "Technical Documentation"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/191022_cialacibu_standbemassung.png"
+      ],
+      "projectUrl": "/highres/191022_cialacibu_standbemassung.pdf",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 58
+    },
+    {
+      "id": 306,
+      "title": "Trade Show Booth Concept - DKOU",
+      "description": "Trade show booth concept design and 3D visualization for DKOU congress",
+      "shortDescription": "Booth Concepts - 3D Design & Visualization",
+      "category": "Exhibition Design",
+      "tags": [
+        "Booth Concepts",
+        "3D Design & Visualization"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/dkou_booth_1.png"
+      ],
+      "projectUrl": "/highres/dkou_booth_1.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 59
+    },
+    {
+      "id": 307,
+      "title": "Trade Show Booth Concept - DKOU",
+      "description": "Trade show booth concept design and 3D visualization for DKOU congress",
+      "shortDescription": "Booth Concepts - 3D Design & Visualization",
+      "category": "Exhibition Design",
+      "tags": [
+        "Booth Concepts",
+        "3D Design & Visualization"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/dkou_booth_4.png"
+      ],
+      "projectUrl": "/highres/dkou_booth_4.png",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 60
+    },
+    {
+      "id": 284,
+      "title": "Trade Show Concept - Alternative Design",
+      "description": "Alternative booth design concept with innovative spatial arrangement",
+      "shortDescription": "Booth Concepts - Concept Variations",
+      "category": "Exhibition Design",
+      "tags": [
+        "Booth Concepts",
+        "Concept Variations"
+      ],
+      "technologies": [],
+      "images": [
+        "/images/New_Take_6.jpg"
+      ],
+      "projectUrl": "/highres/New_Take_6.jpg",
+      "githubUrl": null,
+      "demoUrl": null,
+      "startDate": null,
+      "endDate": null,
+      "client": "Medartis AG",
+      "status": "completed",
+      "featured": false,
+      "sortOrder": 61
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Photoshop",
+      "category": "Skill Barometer",
+      "subcategory": "Adobe",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe Photoshop - Expert level",
+      "icon": null,
+      "color": null,
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "name": "InDesign",
+      "category": "Skill Barometer",
+      "subcategory": "Adobe",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe InDesign - Expert level",
+      "icon": null,
+      "color": null,
+      "sortOrder": 2
+    },
+    {
+      "id": 11,
+      "name": "Cinema 4D",
+      "category": "Skill Barometer",
+      "subcategory": "3D",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Maxon Cinema 4D - Expert level",
+      "icon": null,
+      "color": null,
+      "sortOrder": 11
+    },
+    {
+      "id": 17,
+      "name": "Corporate Photography",
+      "category": "Skill Barometer",
+      "subcategory": "Photography",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Corporate photography - Expert",
+      "icon": null,
+      "color": null,
+      "sortOrder": 17
+    },
+    {
+      "id": 18,
+      "name": "Product Photography",
+      "category": "Skill Barometer",
+      "subcategory": "Photography",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Product photography - Expert",
+      "icon": null,
+      "color": null,
+      "sortOrder": 18
+    },
+    {
+      "id": 23,
+      "name": "German",
+      "category": "Skill Barometer",
+      "subcategory": "Languages",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Mother tongue - spoken and written",
+      "icon": null,
+      "color": null,
+      "sortOrder": 23
+    },
+    {
+      "id": 24,
+      "name": "English",
+      "category": "Skill Barometer",
+      "subcategory": "Languages",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Mother tongue - spoken and written",
+      "icon": null,
+      "color": null,
+      "sortOrder": 24
+    },
+    {
+      "id": 3,
+      "name": "Illustrator",
+      "category": "Skill Barometer",
+      "subcategory": "Adobe",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe Illustrator - Advanced",
+      "icon": null,
+      "color": null,
+      "sortOrder": 3
+    },
+    {
+      "id": 5,
+      "name": "Lightroom",
+      "category": "Skill Barometer",
+      "subcategory": "Adobe",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe Lightroom - Advanced",
+      "icon": null,
+      "color": null,
+      "sortOrder": 5
+    },
+    {
+      "id": 8,
+      "name": "Word",
+      "category": "Skill Barometer",
+      "subcategory": "MS Office",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Microsoft Word",
+      "icon": null,
+      "color": null,
+      "sortOrder": 8
+    },
+    {
+      "id": 10,
+      "name": "PowerPoint",
+      "category": "Skill Barometer",
+      "subcategory": "MS Office",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Microsoft PowerPoint",
+      "icon": null,
+      "color": null,
+      "sortOrder": 10
+    },
+    {
+      "id": 13,
+      "name": "Freeform",
+      "category": "Skill Barometer",
+      "subcategory": "3D",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "3D Systems Geomagic Freeform Plus",
+      "icon": null,
+      "color": null,
+      "sortOrder": 13
+    },
+    {
+      "id": 15,
+      "name": "Mimics",
+      "category": "Skill Barometer",
+      "subcategory": "CT",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Materialise Mimics - Medical imaging",
+      "icon": null,
+      "color": null,
+      "sortOrder": 15
+    },
+    {
+      "id": 19,
+      "name": "Portrait Photography",
+      "category": "Skill Barometer",
+      "subcategory": "Photography",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Portrait photography",
+      "icon": null,
+      "color": null,
+      "sortOrder": 19
+    },
+    {
+      "id": 4,
+      "name": "InCopy",
+      "category": "Skill Barometer",
+      "subcategory": "Adobe",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe InCopy",
+      "icon": null,
+      "color": null,
+      "sortOrder": 4
+    },
+    {
+      "id": 7,
+      "name": "QuarkXPress",
+      "category": "Skill Barometer",
+      "subcategory": "Quark",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "QuarkXPress",
+      "icon": null,
+      "color": null,
+      "sortOrder": 7
+    },
+    {
+      "id": 9,
+      "name": "Excel",
+      "category": "Skill Barometer",
+      "subcategory": "MS Office",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Microsoft Excel",
+      "icon": null,
+      "color": null,
+      "sortOrder": 9
+    },
+    {
+      "id": 12,
+      "name": "Blender",
+      "category": "Skill Barometer",
+      "subcategory": "3D",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Blender 3D",
+      "icon": null,
+      "color": null,
+      "sortOrder": 12
+    },
+    {
+      "id": 16,
+      "name": "3D Slicer",
+      "category": "Skill Barometer",
+      "subcategory": "CT",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "3D Slicer - Medical imaging",
+      "icon": null,
+      "color": null,
+      "sortOrder": 16
+    },
+    {
+      "id": 20,
+      "name": "People Photography",
+      "category": "Skill Barometer",
+      "subcategory": "Photography",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "People photography",
+      "icon": null,
+      "color": null,
+      "sortOrder": 20
+    },
+    {
+      "id": 6,
+      "name": "After Effects",
+      "category": "Skill Barometer",
+      "subcategory": "Adobe",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe After Effects",
+      "icon": null,
+      "color": null,
+      "sortOrder": 6
+    },
+    {
+      "id": 14,
+      "name": "3DCoat",
+      "category": "Skill Barometer",
+      "subcategory": "3D",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Pilgway 3DCoat",
+      "icon": null,
+      "color": null,
+      "sortOrder": 14
+    },
+    {
+      "id": 21,
+      "name": "Nature Photography",
+      "category": "Skill Barometer",
+      "subcategory": "Photography",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Nature photography",
+      "icon": null,
+      "color": null,
+      "sortOrder": 21
+    },
+    {
+      "id": 22,
+      "name": "Sports Photography",
+      "category": "Skill Barometer",
+      "subcategory": "Photography",
+      "level": 6,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Sports photography",
+      "icon": null,
+      "color": null,
+      "sortOrder": 22
+    },
+    {
+      "id": 25,
+      "name": "French",
+      "category": "Skill Barometer",
+      "subcategory": "Languages",
+      "level": 5,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Basic knowledge - spoken and written",
+      "icon": null,
+      "color": null,
+      "sortOrder": 25
+    },
+    {
+      "id": 26,
+      "name": "Portuguese",
+      "category": "Skill Barometer",
+      "subcategory": "Languages",
+      "level": 3,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Basic knowledge in word",
+      "icon": null,
+      "color": null,
+      "sortOrder": 26
+    },
+    {
+      "id": 44,
+      "name": "Open-mindedness",
+      "category": "Soft Skills",
+      "subcategory": "Interpersonal",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Open to new ideas and perspectives",
+      "icon": null,
+      "color": null,
+      "sortOrder": 400
+    },
+    {
+      "id": 45,
+      "name": "Loyalty",
+      "category": "Soft Skills",
+      "subcategory": "Interpersonal",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Unconditional loyalty to team and company",
+      "icon": null,
+      "color": null,
+      "sortOrder": 401
+    },
+    {
+      "id": 46,
+      "name": "Commitment",
+      "category": "Soft Skills",
+      "subcategory": "Work Ethic",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Motivating commitment to excellence",
+      "icon": null,
+      "color": null,
+      "sortOrder": 402
+    },
+    {
+      "id": 47,
+      "name": "Creativity",
+      "category": "Soft Skills",
+      "subcategory": "Creative",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Versatile creativity across disciplines",
+      "icon": null,
+      "color": null,
+      "sortOrder": 403
+    },
+    {
+      "id": 48,
+      "name": "Humor",
+      "category": "Soft Skills",
+      "subcategory": "Interpersonal",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Sense of humor and positive attitude",
+      "icon": null,
+      "color": null,
+      "sortOrder": 404
+    },
+    {
+      "id": 49,
+      "name": "Multidisciplinary Thinking",
+      "category": "Soft Skills",
+      "subcategory": "Problem Solving",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Ability to approach tasks from multiple angles",
+      "icon": null,
+      "color": null,
+      "sortOrder": 405
+    },
+    {
+      "id": 50,
+      "name": "Attention to Detail",
+      "category": "Soft Skills",
+      "subcategory": "Work Ethic",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Eye for detail in all aspects of work",
+      "icon": null,
+      "color": null,
+      "sortOrder": 406
+    },
+    {
+      "id": 51,
+      "name": "Communication",
+      "category": "Soft Skills",
+      "subcategory": "Interpersonal",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Passion for communication in all facets",
+      "icon": null,
+      "color": null,
+      "sortOrder": 407
+    },
+    {
+      "id": 27,
+      "name": "Adobe Creative Suite",
+      "category": "Software Mastery",
+      "subcategory": "DTP - 2D",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "InDesign, Photoshop, Illustrator, Acrobat, InCopy",
+      "icon": null,
+      "color": null,
+      "sortOrder": 100
+    },
+    {
+      "id": 34,
+      "name": "Cinema 4D & Blender",
+      "category": "Software Mastery",
+      "subcategory": "3D - Anims & Stills",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Maxon Cinema 4D, Blender",
+      "icon": null,
+      "color": null,
+      "sortOrder": 200
+    },
+    {
+      "id": 41,
+      "name": "Professional Photography",
+      "category": "Software Mastery",
+      "subcategory": "Other - Photography",
+      "level": 10,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Studio (Products, Portraits), Corporate, Medical (Cadaveric Workshops & Surgeries)",
+      "icon": null,
+      "color": null,
+      "sortOrder": 301
+    },
+    {
+      "id": 29,
+      "name": "Adobe Lightroom",
+      "category": "Software Mastery",
+      "subcategory": "DTP - Photo",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Adobe Lightroom, Bridge & Camera Raw",
+      "icon": null,
+      "color": null,
+      "sortOrder": 102
+    },
+    {
+      "id": 32,
+      "name": "MS Office Suite",
+      "category": "Software Mastery",
+      "subcategory": "DTP - Office",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Word, Excel, PowerPoint, SharePoint, Teams, OneDrive, OneNote",
+      "icon": null,
+      "color": null,
+      "sortOrder": 105
+    },
+    {
+      "id": 35,
+      "name": "3D Optimization Tools",
+      "category": "Software Mastery",
+      "subcategory": "3D - Optimization",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Materialise 3-matic, Meshlab, Meshmixer, Okino Polytrans",
+      "icon": null,
+      "color": null,
+      "sortOrder": 201
+    },
+    {
+      "id": 36,
+      "name": "Haptic Modelling",
+      "category": "Software Mastery",
+      "subcategory": "3D - Modelling",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "3D System Geomagic Freeform Plus, Touch X (Haptic Device), Pilgway 3DCoat",
+      "icon": null,
+      "color": null,
+      "sortOrder": 202
+    },
+    {
+      "id": 37,
+      "name": "DICOM Processing",
+      "category": "Software Mastery",
+      "subcategory": "3D - DICOM",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Materialise Mimics, ITK-Snap, Horos, Osirix, 3D Slicer, MevisLab",
+      "icon": null,
+      "color": null,
+      "sortOrder": 203
+    },
+    {
+      "id": 40,
+      "name": "Operating Systems",
+      "category": "Software Mastery",
+      "subcategory": "Other - Systems",
+      "level": 9,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "MacOS, Windows",
+      "icon": null,
+      "color": null,
+      "sortOrder": 300
+    },
+    {
+      "id": 28,
+      "name": "QuarkXPress",
+      "category": "Software Mastery",
+      "subcategory": "DTP - 2D",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "QuarkXPress layout software",
+      "icon": null,
+      "color": null,
+      "sortOrder": 101
+    },
+    {
+      "id": 33,
+      "name": "DAM Systems",
+      "category": "Software Mastery",
+      "subcategory": "DTP - DAM",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Canto DAM, Elvis DAM",
+      "icon": null,
+      "color": null,
+      "sortOrder": 106
+    },
+    {
+      "id": 38,
+      "name": "WebGL Tools",
+      "category": "Software Mastery",
+      "subcategory": "3D - WebGL",
+      "level": 8,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Boxshot Koru, Sketchfab Enterprise",
+      "icon": null,
+      "color": null,
+      "sortOrder": 204
+    },
+    {
+      "id": 30,
+      "name": "Affinity Photo",
+      "category": "Software Mastery",
+      "subcategory": "DTP - Photo",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Affinity Photo",
+      "icon": null,
+      "color": null,
+      "sortOrder": 103
+    },
+    {
+      "id": 31,
+      "name": "Apple Final Cut",
+      "category": "Software Mastery",
+      "subcategory": "DTP - Postproduction",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Apple Final Cut & Adobe After Effects",
+      "icon": null,
+      "color": null,
+      "sortOrder": 104
+    },
+    {
+      "id": 39,
+      "name": "CAD Software",
+      "category": "Software Mastery",
+      "subcategory": "3D - CAD",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Autodesk Inventor, FreeCAD",
+      "icon": null,
+      "color": null,
+      "sortOrder": 205
+    },
+    {
+      "id": 42,
+      "name": "Python Scripting",
+      "category": "Software Mastery",
+      "subcategory": "Other - Coding",
+      "level": 7,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Python automation and workflow tools",
+      "icon": null,
+      "color": null,
+      "sortOrder": 302
+    },
+    {
+      "id": 43,
+      "name": "AI Tools",
+      "category": "Software Mastery",
+      "subcategory": "Other - AI",
+      "level": 6,
+      "yearsExperience": null,
+      "certification": null,
+      "description": "Generative AI platforms and tools",
+      "icon": null,
+      "color": null,
+      "sortOrder": 303
+    }
+  ],
+  "education": {
+    "entries": [
+      {
+        "period": "2004 – 2008",
+        "institution": "Naturarzt (kant. appr. BS)",
+        "degree": "Naturarzt (kant. appr. BS), ZengaMed, Basel / Schopfheim",
+        "description": ""
+      },
+      {
+        "period": "2000 – 2002",
+        "institution": "Planer Marketingkommunikation",
+        "degree": "Planer Marketingkommunikation, SAWI, Basel",
+        "description": ""
+      },
+      {
+        "period": "1996 – 1999",
+        "institution": "Matura (Latein)",
+        "degree": "Matura (Latein), Gymnasium Münchenstein",
+        "description": ""
+      },
+      {
+        "period": "1986 – 1996",
+        "institution": "Rudolf Steiner Schule Birseck",
+        "degree": "Rudolf Steiner Schule Birseck, Aesch",
+        "description": ""
+      },
+      {
+        "period": "2022",
+        "institution": "to 2025 \tDirected day-to-day media production activities with a focus on process optimization and creative workflow improvements. Introduced and rolled out a new DAM system",
+        "degree": "to 2025 \tDirected day-to-day media production activities with a focus on process optimization and creative workflow improvements. Introduced and rolled out a new DAM system, and created Python scripts to automate recurring tasks. Provided hands-on support to subsidiaries, distributors, and departments such as Corporate Communications, Events, R&D, Education, and HR.",
+        "description": ""
+      },
+      {
+        "period": "2021",
+        "institution": "to 2022\tDirect support for physicians",
+        "degree": "to 2022\tDirect support for physicians, practices, and hospitals in surgical planning. Design of patient-specific implants, drill and cutting guides, and bone models for reconstruction, correction, and revision. Modeling with Freeform, segmentation with Mimics, and continuous process improvement through COP. End-to-end case management from order intake through to surgery support.",
+        "description": ""
+      },
+      {
+        "period": "2013",
+        "institution": "to 2014\tEditing and sourcing photos from agencies",
+        "degree": "to 2014\tEditing and sourcing photos from agencies, commissioning photographers, and supporting studio and on-location shoots. Close collaboration with editors of all Coop publications (newspaper, employee magazine, Pronto-News).",
+        "description": ""
+      },
+      {
+        "period": "2008",
+        "institution": "to 2011\tRealization and production of PR articles",
+        "degree": "to 2011\tRealization and production of PR articles, inserts and commercials for clients, production of in-house sales documents (fact sheets, pricing documentation), photography, writing of PR texts, development and maintenance of address database, client support and supervision of production processes.",
+        "description": ""
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "type": "personal_motto",
+      "quote": "See the breadth, delve into the depth. I use all my experience to live up to this principle.",
+      "author": "Eduard Lorenz",
+      "role": "Personal Motto",
+      "company": null,
+      "traits": [],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "type": "personal_statement",
+      "quote": "I possess both the imagination and the technical skills to move purposefully from idea to concept to implementation.",
+      "author": "Eduard Lorenz",
+      "role": "Creative Philosophy",
+      "company": null,
+      "traits": [],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "type": "personal_statement",
+      "quote": "I can approach tasks in a multidisciplinary way to create unique, innovative and sustainable solutions.",
+      "author": "Eduard Lorenz",
+      "role": "Problem-Solving Approach",
+      "company": null,
+      "traits": [],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "type": "colleagues_appreciation",
+      "quote": "My colleagues and friends appreciate my open-mindedness, my unconditional loyalty, my motivating commitment, my versatile creativity and last but not least my sense of humor.",
+      "author": "Colleagues & Friends",
+      "role": "Team Feedback",
+      "company": null,
+      "traits": [
+        "Open-mindedness",
+        "Unconditional loyalty",
+        "Motivating commitment",
+        "Versatile creativity",
+        "Sense of humor"
+      ],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "type": "colleagues_appreciation",
+      "quote": "What you have created and done for this meeting is beyond what anyone could have hoped for. Your attitude, talent and dedication is unmatched - and always with a positive mindset.",
+      "author": "Karina Schollhammer",
+      "role": "Global Vice President Marketing & Medical Education",
+      "company": "Medartis AG",
+      "traits": [
+        "Exceptional talent",
+        "Unmatched dedication",
+        "Positive mindset"
+      ],
+      "featured": true
+    },
+    {
+      "id": 6,
+      "type": "colleagues_appreciation",
+      "quote": "It's a masterpiece! Thank you for the trust and dedication. Outstanding work that exceeded all expectations.",
+      "author": "Peter Lorenz",
+      "role": "Director Global Marketing",
+      "company": "Medartis AG",
+      "traits": [
+        "Trustworthy",
+        "Dedicated",
+        "Exceeds expectations"
+      ],
+      "featured": true
+    },
+    {
+      "id": 7,
+      "type": "colleagues_appreciation",
+      "quote": "Awesome work on the CMX product documentation and entrance design. I love the attention to detail and creative approach.",
+      "author": "Shane Feng",
+      "role": "Product Manager",
+      "company": "Medartis AG",
+      "traits": [
+        "Detail-oriented",
+        "Creative approach",
+        "Quality-focused"
+      ],
+      "featured": true
+    },
+    {
+      "id": 8,
+      "type": "colleagues_appreciation",
+      "quote": "Klasse, du bist der Beste! Herzlichen Dank Eduard!",
+      "author": "Ralph Mosimann",
+      "role": "Manufacturing Director Operations",
+      "company": "Medartis AG",
+      "traits": [
+        "Best-in-class",
+        "Reliable partner"
+      ],
+      "featured": true
+    },
+    {
+      "id": 9,
+      "type": "award",
+      "quote": "Winner of the Medartis Spirit Award for exceptional engagement and committed work on the corporate website launch, including presentation of new corporate branding visuals.",
+      "author": "Medartis AG",
+      "role": "Spirit Award 2024",
+      "company": "Medartis AG",
+      "traits": [
+        "Leadership",
+        "Innovation",
+        "Commitment",
+        "Excellence"
+      ],
+      "featured": true
+    },
+    {
+      "id": 10,
+      "type": "achievement",
+      "quote": "Led a brownbag workshop on Generative AI, sharing insights and practical applications with colleagues to foster innovation and AI literacy within the organization.",
+      "author": "Eduard Lorenz",
+      "role": "AI Workshop Leader",
+      "company": "Medartis AG",
+      "traits": [
+        "Innovation",
+        "Teaching",
+        "AI Expertise",
+        "Knowledge Sharing"
+      ],
+      "featured": true
+    }
+  ],
+  "content_sections": {
+    "about": {
+      "description": "See the breadth, delve into the depth. I use all my experience to live up to this principle. My range of experience includes work for agencies, media as well as the industry. With a focus on creativity, my skillset as a graphic artist, photographer, 3D artist and designer expands with each new challenge.\n\nWith an eye for detail and a love of language, I indulge my great passion for communication in all its facets. I possess both the imagination and the technical skills to move purposefully from idea to concept to implementation. I can think both broadly and deeply about my tasks, and I can approach them in a multidisciplinary way to create unique, innovative and sustainable solutions.\n\nMy colleagues and friends appreciate my open-mindedness, my unconditional loyalty, my motivating commitment, my versatile creativity and last but not least my sense of humor.",
+      "quote": "See the breadth, delve into the depth. I use all my experience to live up to this principle.",
+      "highlights": [],
+      "badges": [
+        "3D Visualization Expert",
+        "CMX Designer",
+        "Medical Imaging Specialist",
+        "Python Developer",
+        "AI Integration"
+      ],
+      "personalQuotes": [
+        "I possess both the imagination and the technical skills to move purposefully from idea to concept to implementation.",
+        "I can approach tasks in a multidisciplinary way to create unique, innovative and sustainable solutions."
+      ],
+      "colleaguesAppreciate": [
+        "Open-mindedness",
+        "Unconditional loyalty",
+        "Motivating commitment",
+        "Versatile creativity",
+        "Sense of humor"
+      ],
+      "yearsSince": 2000
+    },
+    "contact": {
+      "title": "Let's Create Something Extraordinary",
+      "subtitle": "Ready to transform your medical visualization or bring your creative vision to life? Let's discuss your project.",
+      "valueProps": [
+        {
+          "icon": "⚡",
+          "text": "Fast turnaround without compromising quality"
+        },
+        {
+          "icon": "🎯",
+          "text": "Precision-focused 3D medical visualization"
+        },
+        {
+          "icon": "🤝",
+          "text": "Collaborative approach to every project"
+        },
+        {
+          "icon": "💡",
+          "text": "Innovation-driven solutions using AI"
+        }
+      ],
+      "responseTime": "24 hours",
+      "specializations": [
+        "3D Medical Visualization",
+        "Patient-Specific Solutions",
+        "Product Photography",
+        "AI-Powered Design",
+        "Interactive WebGL",
+        "Medical Documentation"
+      ]
+    },
+    "theme": {
+      "backgroundPrimary": "#0ea5e9",
+      "backgroundSecondary": "#3b82f6",
+      "primaryColor": "#0ea5e9",
+      "accentColor": "#f59e0b"
+    },
+    "experience": [
+      {
+        "id": 1,
+        "company": "Medartis AG",
+        "position": "Group Manager Global Media Production",
+        "title": "Group Manager Global Media Production",
+        "location": "",
+        "startDate": "2025-01-01",
+        "endDate": null,
+        "isCurrent": true,
+        "isCurrentRole": true,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 2,
+        "company": "Medartis AG",
+        "position": "Teamlead Global Media Production",
+        "title": "Teamlead Global Media Production",
+        "location": "",
+        "startDate": "2022-01-01",
+        "endDate": "2025-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 3,
+        "company": "Medartis AG",
+        "position": "CMX Designer",
+        "title": "CMX Designer",
+        "location": "",
+        "startDate": "2021-01-01",
+        "endDate": "2022-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 4,
+        "company": "Medartis AG",
+        "position": "Senior Digital Media Designer",
+        "title": "Senior Digital Media Designer",
+        "location": "",
+        "startDate": "2014-01-01",
+        "endDate": "2021-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 5,
+        "company": "Coop Presse",
+        "position": "Editor of images",
+        "title": "Editor of images",
+        "location": "",
+        "startDate": "2013-01-01",
+        "endDate": "2014-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 6,
+        "company": "Baslerstab",
+        "position": "Deputy Head of Editorial Production",
+        "title": "Deputy Head of Editorial Production",
+        "location": "",
+        "startDate": "2011-01-01",
+        "endDate": "2013-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 7,
+        "company": "Baslerstab",
+        "position": "Head of PR Production",
+        "title": "Head of PR Production",
+        "location": "",
+        "startDate": "2008-01-01",
+        "endDate": "2011-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      },
+      {
+        "id": 8,
+        "company": "Wirb, Basel",
+        "position": "Layout, photography, graphics, customer service",
+        "title": "Layout, photography, graphics, customer service",
+        "location": "",
+        "startDate": "2000-01-01",
+        "endDate": "2007-12-31",
+        "isCurrent": false,
+        "isCurrentRole": false,
+        "description": "",
+        "achievements": [],
+        "technologies": [],
+        "responsibilities": []
+      }
+    ],
+    "skills": [
+      {
+        "name": "Cinema 4D",
+        "level": 10,
+        "category": "3D",
+        "details": [
+          "Maxon Cinema 4D - Expert level"
+        ]
+      },
+      {
+        "name": "Blender",
+        "level": 8,
+        "category": "3D",
+        "details": [
+          "Blender 3D"
+        ]
+      },
+      {
+        "name": "Freeform",
+        "level": 9,
+        "category": "3D",
+        "details": [
+          "3D Systems Geomagic Freeform Plus"
+        ]
+      },
+      {
+        "name": "3DCoat",
+        "level": 7,
+        "category": "3D",
+        "details": [
+          "Pilgway 3DCoat"
+        ]
+      },
+      {
+        "name": "Photoshop",
+        "level": 10,
+        "category": "Adobe",
+        "details": [
+          "Adobe Photoshop - Expert level"
+        ]
+      },
+      {
+        "name": "InDesign",
+        "level": 10,
+        "category": "Adobe",
+        "details": [
+          "Adobe InDesign - Expert level"
+        ]
+      },
+      {
+        "name": "Illustrator",
+        "level": 9,
+        "category": "Adobe",
+        "details": [
+          "Adobe Illustrator - Advanced"
+        ]
+      },
+      {
+        "name": "InCopy",
+        "level": 8,
+        "category": "Adobe",
+        "details": [
+          "Adobe InCopy"
+        ]
+      },
+      {
+        "name": "Lightroom",
+        "level": 9,
+        "category": "Adobe",
+        "details": [
+          "Adobe Lightroom - Advanced"
+        ]
+      },
+      {
+        "name": "After Effects",
+        "level": 7,
+        "category": "Adobe",
+        "details": [
+          "Adobe After Effects"
+        ]
+      },
+      {
+        "name": "Mimics",
+        "level": 9,
+        "category": "CT",
+        "details": [
+          "Materialise Mimics - Medical imaging"
+        ]
+      },
+      {
+        "name": "3D Slicer",
+        "level": 8,
+        "category": "CT",
+        "details": [
+          "3D Slicer - Medical imaging"
+        ]
+      },
+      {
+        "name": "German",
+        "level": 10,
+        "category": "Languages",
+        "details": [
+          "Mother tongue - spoken and written"
+        ]
+      },
+      {
+        "name": "English",
+        "level": 10,
+        "category": "Languages",
+        "details": [
+          "Mother tongue - spoken and written"
+        ]
+      },
+      {
+        "name": "French",
+        "level": 5,
+        "category": "Languages",
+        "details": [
+          "Basic knowledge - spoken and written"
+        ]
+      },
+      {
+        "name": "Portuguese",
+        "level": 3,
+        "category": "Languages",
+        "details": [
+          "Basic knowledge in word"
+        ]
+      },
+      {
+        "name": "Word",
+        "level": 9,
+        "category": "MS Office",
+        "details": [
+          "Microsoft Word"
+        ]
+      },
+      {
+        "name": "Excel",
+        "level": 8,
+        "category": "MS Office",
+        "details": [
+          "Microsoft Excel"
+        ]
+      },
+      {
+        "name": "PowerPoint",
+        "level": 9,
+        "category": "MS Office",
+        "details": [
+          "Microsoft PowerPoint"
+        ]
+      },
+      {
+        "name": "Corporate Photography",
+        "level": 10,
+        "category": "Photography",
+        "details": [
+          "Corporate photography - Expert"
+        ]
+      },
+      {
+        "name": "Product Photography",
+        "level": 10,
+        "category": "Photography",
+        "details": [
+          "Product photography - Expert"
+        ]
+      },
+      {
+        "name": "Portrait Photography",
+        "level": 9,
+        "category": "Photography",
+        "details": [
+          "Portrait photography"
+        ]
+      },
+      {
+        "name": "People Photography",
+        "level": 8,
+        "category": "Photography",
+        "details": [
+          "People photography"
+        ]
+      },
+      {
+        "name": "Nature Photography",
+        "level": 7,
+        "category": "Photography",
+        "details": [
+          "Nature photography"
+        ]
+      },
+      {
+        "name": "Sports Photography",
+        "level": 6,
+        "category": "Photography",
+        "details": [
+          "Sports photography"
+        ]
+      },
+      {
+        "name": "QuarkXPress",
+        "level": 8,
+        "category": "Quark",
+        "details": [
+          "QuarkXPress"
+        ]
+      }
+    ],
+    "portfolio": [
+      {
+        "id": 302,
+        "title": "CMX Key Visual - Female Orthognathics Frontal",
+        "description": "CMX rebranding campaign key visual showcasing orthognathic surgery planning with AI-generated imagery",
+        "short_description": "CMX Campaign - AI-Generated Imagery",
+        "category": "AI & Innovation",
+        "tags": [
+          "CMX Campaign",
+          "AI-Generated Imagery"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/cmx_keyvisual_female_orthognathics_frontal_1.jpg"
+        ],
+        "project_url": "/highres/cmx_keyvisual_female_orthognathics_frontal_1.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 0,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/cmx_keyvisual_female_orthognathics_frontal_1.jpg"
+      },
+      {
+        "id": 303,
+        "title": "CMX Key Visual - Female Orthognathics Frontal",
+        "description": "CMX rebranding campaign key visual showcasing orthognathic surgery planning with AI-generated imagery",
+        "short_description": "CMX Campaign - AI-Generated Imagery",
+        "category": "AI & Innovation",
+        "tags": [
+          "CMX Campaign",
+          "AI-Generated Imagery"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/cmx_keyvisual_female_orthognathics_frontal_2.jpg"
+        ],
+        "project_url": "/highres/cmx_keyvisual_female_orthognathics_frontal_2.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 1,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/cmx_keyvisual_female_orthognathics_frontal_2.jpg"
+      },
+      {
+        "id": 304,
+        "title": "CMX Key Visual - Male Orthognathics",
+        "description": "CMX rebranding campaign key visual for male orthognathic surgery applications",
+        "short_description": "CMX Campaign - AI-Generated Imagery",
+        "category": "AI & Innovation",
+        "tags": [
+          "CMX Campaign",
+          "AI-Generated Imagery"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/cmx_keyvisual_male_orthognathics.jpg"
+        ],
+        "project_url": "/highres/cmx_keyvisual_male_orthognathics.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 2,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/cmx_keyvisual_male_orthognathics.jpg"
+      },
+      {
+        "id": 263,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/C21-0044.CSDF_C__Seite_12.png"
+        ],
+        "project_url": "/highres/C21-0044.CSDF_C__Seite_12.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 3,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/C21-0044.CSDF_C__Seite_12.png"
+      },
+      {
+        "id": 264,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/C21-0044.CSDF_C__Seite_121.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 4,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/C21-0044.CSDF_C__Seite_121.png"
+      },
+      {
+        "id": 265,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/C21-0044.CSDF_C__Seite_15.png"
+        ],
+        "project_url": "/highres/C21-0044.CSDF_C__Seite_15.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 5,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/C21-0044.CSDF_C__Seite_15.png"
+      },
+      {
+        "id": 266,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/C21-0044.CSDF_C__Seite_16.png"
+        ],
+        "project_url": "/highres/C21-0044.CSDF_C__Seite_16.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 6,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/C21-0044.CSDF_C__Seite_16.png"
+      },
+      {
+        "id": 267,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/C21-0044.CSDF_C__Seite_19.png"
+        ],
+        "project_url": "/highres/C21-0044.CSDF_C__Seite_19.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 7,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/C21-0044.CSDF_C__Seite_19.png"
+      },
+      {
+        "id": 268,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/C21-0044.CSDF_C__Seite_25.png"
+        ],
+        "project_url": "/highres/C21-0044.CSDF_C__Seite_25.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 8,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/C21-0044.CSDF_C__Seite_25.png"
+      },
+      {
+        "id": 278,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Folie1.png"
+        ],
+        "project_url": "/highres/Folie1.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 9,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Folie1.png"
+      },
+      {
+        "id": 279,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Folie11.png"
+        ],
+        "project_url": "/highres/Folie11.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 10,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Folie11.png"
+      },
+      {
+        "id": 280,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Folie12.png"
+        ],
+        "project_url": "/highres/Folie12.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 11,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Folie12.png"
+      },
+      {
+        "id": 281,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Folie7.png"
+        ],
+        "project_url": "/highres/Folie7.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 12,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Folie7.png"
+      },
+      {
+        "id": 282,
+        "title": "CMX Patient-Specific - Mandible Reconstruction",
+        "description": "3D surgical planning for mandible reconstruction with custom implants and cutting guides",
+        "short_description": "Patient-Specific Solutions - Mandible Surgery Planning",
+        "category": "AI & Innovation",
+        "tags": [
+          "Patient-Specific Solutions",
+          "Mandible Surgery Planning"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Folie9.png"
+        ],
+        "project_url": "/highres/Folie9.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 13,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Folie9.png"
+      },
+      {
+        "id": 249,
+        "title": "WebGL Interactive - Midface System",
+        "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+        "short_description": "Interactive 3D - WebGL Visualizations",
+        "category": "3D Visualization",
+        "tags": [
+          "Interactive 3D",
+          "WebGL Visualizations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Bildschirmfoto_2020-09-21_um_15.26.54.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 24,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Bildschirmfoto_2020-09-21_um_15.26.54.png"
+      },
+      {
+        "id": 250,
+        "title": "WebGL Interactive - Midface System",
+        "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+        "short_description": "Interactive 3D - WebGL Visualizations",
+        "category": "3D Visualization",
+        "tags": [
+          "Interactive 3D",
+          "WebGL Visualizations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Bildschirmfoto_2020-09-21_um_15.27.14.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 25,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Bildschirmfoto_2020-09-21_um_15.27.14.png"
+      },
+      {
+        "id": 251,
+        "title": "WebGL Interactive - Midface System",
+        "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+        "short_description": "Interactive 3D - WebGL Visualizations",
+        "category": "3D Visualization",
+        "tags": [
+          "Interactive 3D",
+          "WebGL Visualizations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Bildschirmfoto_2020-09-21_um_15.27.26.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 26,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Bildschirmfoto_2020-09-21_um_15.27.26.png"
+      },
+      {
+        "id": 252,
+        "title": "WebGL Interactive - Midface System",
+        "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+        "short_description": "Interactive 3D - WebGL Visualizations",
+        "category": "3D Visualization",
+        "tags": [
+          "Interactive 3D",
+          "WebGL Visualizations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Bildschirmfoto_2020-09-21_um_15.29.38.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 27,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Bildschirmfoto_2020-09-21_um_15.29.38.png"
+      },
+      {
+        "id": 313,
+        "title": "WebGL Interactive - Midface System",
+        "description": "Interactive WebGL visualization of midface reconstruction system with anatomical details",
+        "short_description": "Interactive 3D - WebGL Visualizations",
+        "category": "3D Visualization",
+        "tags": [
+          "Interactive 3D",
+          "WebGL Visualizations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/midface_complete.png"
+        ],
+        "project_url": "/highres/midface_complete.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 28,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/midface_complete.png"
+      },
+      {
+        "id": 244,
+        "title": "Annual Report 2018 - Content",
+        "description": "Annual report 2018 content pages featuring professional photography and editorial design",
+        "short_description": "Annual Report - Photography & Layout",
+        "category": "Print & Editorial",
+        "tags": [
+          "Annual Report",
+          "Photography & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/190225_2018_annual_report_print_inhalt.png"
+        ],
+        "project_url": "/highres/190225_2018_annual_report_print_inhalt.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 54,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/190225_2018_annual_report_print_inhalt.png"
+      },
+      {
+        "id": 245,
+        "title": "Annual Report 2018 - Content",
+        "description": "Annual report 2018 content pages featuring professional photography and editorial design",
+        "short_description": "Annual Report - Photography & Layout",
+        "category": "Print & Editorial",
+        "tags": [
+          "Annual Report",
+          "Photography & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/190225_2018_annual_report_print_inhalt1.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 55,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/190225_2018_annual_report_print_inhalt1.png"
+      },
+      {
+        "id": 246,
+        "title": "Annual Report 2018 - Content",
+        "description": "Annual report 2018 content pages featuring professional photography and editorial design",
+        "short_description": "Annual Report - Photography & Layout",
+        "category": "Print & Editorial",
+        "tags": [
+          "Annual Report",
+          "Photography & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/190225_2018_annual_report_print_inhalt2.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 56,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/190225_2018_annual_report_print_inhalt2.png"
+      },
+      {
+        "id": 247,
+        "title": "Annual Report 2018 - Cover",
+        "description": "Annual report 2018 cover design with impactful visual presentation",
+        "short_description": "Annual Report - Photography & Layout",
+        "category": "Print & Editorial",
+        "tags": [
+          "Annual Report",
+          "Photography & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/190225_2018_annual_report_print_umschlag.png"
+        ],
+        "project_url": "/highres/190225_2018_annual_report_print_umschlag.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 1,
+        "sort_order": 57,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/190225_2018_annual_report_print_umschlag.png"
+      },
+      {
+        "id": 243,
+        "title": "Medical Imaging - CT Scan Planning",
+        "description": "CT scan segmentation and 3D reconstruction for surgical planning",
+        "short_description": "Medical Imaging - CT Segmentation",
+        "category": "AI & Innovation",
+        "tags": [
+          "Medical Imaging",
+          "CT Segmentation"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/0544_001.png"
+        ],
+        "project_url": "/highres/0544_001.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 14,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/0544_001.png"
+      },
+      {
+        "id": 283,
+        "title": "3D Animation - Foot System",
+        "description": "Animated surgical technique demonstration for hallux valgus correction",
+        "short_description": "3D Animation - Surgical Techniques",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Animation",
+          "Surgical Techniques"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/Foot_Hallux_System_Low-Key.jpg"
+        ],
+        "project_url": "/highres/Foot_Hallux_System_Low-Key.tif",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 15,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/Foot_Hallux_System_Low-Key.jpg"
+      },
+      {
+        "id": 309,
+        "title": "3D Animation - Foot System",
+        "description": "Animated surgical technique demonstration for hallux valgus correction",
+        "short_description": "3D Animation - Surgical Techniques",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Animation",
+          "Surgical Techniques"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/foot_brice_1281x1920.jpg"
+        ],
+        "project_url": "/highres/foot_brice_1281x1920.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 16,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/foot_brice_1281x1920.jpg"
+      },
+      {
+        "id": 310,
+        "title": "3D Animation - Hand System",
+        "description": "Hand fracture fixation technique with precise anatomical 3D rendering",
+        "short_description": "3D Animation - Surgical Techniques",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Animation",
+          "Surgical Techniques"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/hand_arigoni_1281x1920.jpg"
+        ],
+        "project_url": "/highres/hand_arigoni_1281x1920.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 17,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/hand_arigoni_1281x1920.jpg"
+      },
+      {
+        "id": 314,
+        "title": "3D Animation - Shoulder System",
+        "description": "Shoulder reconstruction surgical technique with detailed 3D animation",
+        "short_description": "3D Animation - Surgical Techniques",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Animation",
+          "Surgical Techniques"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/shoulder_manuel_1281x1920.jpg"
+        ],
+        "project_url": "/highres/shoulder_manuel_1281x1920.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 18,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/shoulder_manuel_1281x1920.jpg"
+      },
+      {
+        "id": 315,
+        "title": "3D Animation - Wrist System",
+        "description": "Wrist fracture fixation technique animation showcasing step-by-step procedures",
+        "short_description": "3D Animation - Surgical Techniques",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Animation",
+          "Surgical Techniques"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/wrist_simon_1281x1920.jpg"
+        ],
+        "project_url": "/highres/wrist_simon_1281x1920.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 19,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/wrist_simon_1281x1920.jpg"
+      },
+      {
+        "id": 316,
+        "title": "3D Animation - Wrist System",
+        "description": "Wrist fracture fixation technique animation showcasing step-by-step procedures",
+        "short_description": "3D Animation - Surgical Techniques",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Animation",
+          "Surgical Techniques"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/wsd_tech_visual.png"
+        ],
+        "project_url": "/highres/wsd_tech_visual.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 20,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/wsd_tech_visual.png"
+      },
+      {
+        "id": 301,
+        "title": "Product Key Visual - Clavicle System",
+        "description": "High-impact 3D product visualization for clavicle fracture treatment system",
+        "short_description": "3D Visualization - Product Key Visuals",
+        "category": "3D Visualization",
+        "tags": [
+          "3D Visualization",
+          "Product Key Visuals"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/clavicle_fracture_visual_website_header_2.png"
+        ],
+        "project_url": "/highres/clavicle_fracture_visual_website_header_2.psd",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 21,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/clavicle_fracture_visual_website_header_2.png"
+      },
+      {
+        "id": 277,
+        "title": "Product Rendering - Instrument System",
+        "description": "Photorealistic 3D product rendering of surgical instrument system",
+        "short_description": "Product Rendering - 3D Visualization",
+        "category": "3D Visualization",
+        "tags": [
+          "Product Rendering",
+          "3D Visualization"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/FPL_HP_90dpi_db_extra_large2.jpg"
+        ],
+        "project_url": "/highres/FPL_HP_90dpi_db_extra_large2.tif",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 22,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/FPL_HP_90dpi_db_extra_large2.jpg"
+      },
+      {
+        "id": 311,
+        "title": "Product Rendering - Sterile Container",
+        "description": "High-quality product visualization of sterile container system",
+        "short_description": "Product Rendering - 3D Visualization",
+        "category": "3D Visualization",
+        "tags": [
+          "Product Rendering",
+          "3D Visualization"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/iso.png"
+        ],
+        "project_url": "/highres/iso.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 23,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/iso.png"
+      },
+      {
+        "id": 285,
+        "title": "Product Information - APTUS Shoulder Clavicle System",
+        "description": "Product information brochure for APTUS Shoulder Clavicle System 2.8, featuring comprehensive graphics and layout design for medical devices",
+        "short_description": "Product Information - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Product Information",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/R_CMX-20000001_v0_EN_APTUS_Product_Information.png"
+        ],
+        "project_url": "/highres/R_CMX-20000001_v0_EN_APTUS_Product_Information.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 29,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/R_CMX-20000001_v0_EN_APTUS_Product_Information.png"
+      },
+      {
+        "id": 286,
+        "title": "Product Information - MODUS System",
+        "description": "Product information brochure for MODUS System showcasing detailed medical device specifications and applications",
+        "short_description": "Product Information - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Product Information",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/R_CMX-30000001_v0_EN_MODUS_Product_Information.png"
+        ],
+        "project_url": "/highres/R_CMX-30000001_v0_EN_MODUS_Product_Information.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 30,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/R_CMX-30000001_v0_EN_MODUS_Product_Information.png"
+      },
+      {
+        "id": 287,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-00000001_v2_web.png"
+        ],
+        "project_url": "/highres/SHOULDER-00000001_v2_web.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 31,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-00000001_v2_web.png"
+      },
+      {
+        "id": 288,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-00000001_v2_web1.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 32,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-00000001_v2_web1.png"
+      },
+      {
+        "id": 289,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-00000001_v2_web2.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 33,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-00000001_v2_web2.png"
+      },
+      {
+        "id": 290,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-00000001_v2_web3.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 34,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-00000001_v2_web3.png"
+      },
+      {
+        "id": 291,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-01010101_v2_2020-08_final_II.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 35,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-01010101_v2_2020-08_final_II.png"
+      },
+      {
+        "id": 292,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-01010101_v2_2020-08_final_II1.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 36,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-01010101_v2_2020-08_final_II1.png"
+      },
+      {
+        "id": 293,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-01010101_v2_2020-08_final_II2.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 37,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-01010101_v2_2020-08_final_II2.png"
+      },
+      {
+        "id": 294,
+        "title": "Surgical Technique - Shoulder System",
+        "description": "Step-by-step surgical technique documentation with detailed graphics and instructional layout",
+        "short_description": "Surgical Techniques - Graphics & Layout",
+        "category": "Medical Documentation",
+        "tags": [
+          "Surgical Techniques",
+          "Graphics & Layout"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/SHOULDER-01010101_v2_2020-08_final_II3.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 38,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/SHOULDER-01010101_v2_2020-08_final_II3.png"
+      },
+      {
+        "id": 299,
+        "title": "ATL Campaign Visual - Portrait",
+        "description": "Above-the-line campaign portrait photography showcasing athletic and professional imagery",
+        "short_description": "Campaign Photography - ATL Visuals",
+        "category": "Photography",
+        "tags": [
+          "Campaign Photography",
+          "ATL Visuals"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/andre_vogt_DSC_5722_bw.png"
+        ],
+        "project_url": "/highres/andre_vogt_DSC_5722_bw.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 39,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/andre_vogt_DSC_5722_bw.png"
+      },
+      {
+        "id": 300,
+        "title": "ATL Campaign Visual - Portrait",
+        "description": "Above-the-line campaign portrait photography showcasing athletic and professional imagery",
+        "short_description": "Campaign Photography - ATL Visuals",
+        "category": "Photography",
+        "tags": [
+          "Campaign Photography",
+          "ATL Visuals"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/andre_vogt_DSC_5722_bw1.png"
+        ],
+        "project_url": null,
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 40,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/andre_vogt_DSC_5722_bw1.png"
+      },
+      {
+        "id": 312,
+        "title": "ATL Campaign Visual - Portrait",
+        "description": "Above-the-line campaign portrait photography showcasing athletic and professional imagery",
+        "short_description": "Campaign Photography - ATL Visuals",
+        "category": "Photography",
+        "tags": [
+          "Campaign Photography",
+          "ATL Visuals"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/kv_DSC_5869.png"
+        ],
+        "project_url": "/highres/kv_DSC_5869.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 41,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/kv_DSC_5869.png"
+      },
+      {
+        "id": 305,
+        "title": "Corporate Photography - Customer Service",
+        "description": "Customer service and support team photography for corporate communications",
+        "short_description": "Corporate Photography - Business Operations",
+        "category": "Photography",
+        "tags": [
+          "Corporate Photography",
+          "Business Operations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/csm_customer_service_tiny_b4ca23e1ad.jpg"
+        ],
+        "project_url": "/highres/csm_customer_service_tiny_b4ca23e1ad.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 42,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/csm_customer_service_tiny_b4ca23e1ad.jpg"
+      },
+      {
+        "id": 308,
+        "title": "Portrait Photography - Executive",
+        "description": "Professional executive portrait photography with dramatic studio lighting",
+        "short_description": "Portrait Photography - Studio Portraits",
+        "category": "Photography",
+        "tags": [
+          "Portrait Photography",
+          "Studio Portraits"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/eddie.jpg"
+        ],
+        "project_url": "/highres/eddie.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 43,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/eddie.jpg"
+      },
+      {
+        "id": 317,
+        "title": "Portrait Photography - Executive",
+        "description": "Professional executive portrait photography with dramatic studio lighting",
+        "short_description": "Portrait Photography - Studio Portraits",
+        "category": "Photography",
+        "tags": [
+          "Portrait Photography",
+          "Studio Portraits"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/zz_elo_2019_1.jpg"
+        ],
+        "project_url": "/highres/zz_elo_2019_1.jpeg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 44,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/zz_elo_2019_1.jpg"
+      },
+      {
+        "id": 318,
+        "title": "Portrait Photography - Executive",
+        "description": "Professional executive portrait photography with dramatic studio lighting",
+        "short_description": "Portrait Photography - Studio Portraits",
+        "category": "Photography",
+        "tags": [
+          "Portrait Photography",
+          "Studio Portraits"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/zz_elo_2019_2.jpg"
+        ],
+        "project_url": "/highres/zz_elo_2019_2.jpeg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 45,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/zz_elo_2019_2.jpg"
+      },
+      {
+        "id": 269,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_0995.jpg"
+        ],
+        "project_url": "/highres/DSC_0995.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 46,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_0995.jpg"
+      },
+      {
+        "id": 270,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_2314.png"
+        ],
+        "project_url": "/highres/DSC_2314.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 47,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_2314.png"
+      },
+      {
+        "id": 271,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_5988.png"
+        ],
+        "project_url": "/highres/DSC_5988.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 48,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_5988.png"
+      },
+      {
+        "id": 272,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_6275.png"
+        ],
+        "project_url": "/highres/DSC_6275.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 49,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_6275.png"
+      },
+      {
+        "id": 273,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_6325.jpg"
+        ],
+        "project_url": "/highres/DSC_6325.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 50,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_6325.jpg"
+      },
+      {
+        "id": 274,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_6360.jpg"
+        ],
+        "project_url": "/highres/DSC_6360.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 51,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_6360.jpg"
+      },
+      {
+        "id": 275,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_6500.jpg"
+        ],
+        "project_url": "/highres/DSC_6500.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 52,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_6500.jpg"
+      },
+      {
+        "id": 276,
+        "title": "Product Photography - Medical Devices",
+        "description": "High-quality product photography of medical implants and surgical instruments",
+        "short_description": "Product Photography - Medical Devices",
+        "category": "Photography",
+        "tags": [
+          "Product Photography",
+          "Medical Devices"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/DSC_6527.jpg"
+        ],
+        "project_url": "/highres/DSC_6527.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 53,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/DSC_6527.jpg"
+      },
+      {
+        "id": 248,
+        "title": "Booth Dimensions & Planning",
+        "description": "Detailed booth dimensions and technical planning documentation",
+        "short_description": "Booth Concepts - Technical Documentation",
+        "category": "Exhibition Design",
+        "tags": [
+          "Booth Concepts",
+          "Technical Documentation"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/191022_cialacibu_standbemassung.png"
+        ],
+        "project_url": "/highres/191022_cialacibu_standbemassung.pdf",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 58,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/191022_cialacibu_standbemassung.png"
+      },
+      {
+        "id": 306,
+        "title": "Trade Show Booth Concept - DKOU",
+        "description": "Trade show booth concept design and 3D visualization for DKOU congress",
+        "short_description": "Booth Concepts - 3D Design & Visualization",
+        "category": "Exhibition Design",
+        "tags": [
+          "Booth Concepts",
+          "3D Design & Visualization"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/dkou_booth_1.png"
+        ],
+        "project_url": "/highres/dkou_booth_1.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 59,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/dkou_booth_1.png"
+      },
+      {
+        "id": 307,
+        "title": "Trade Show Booth Concept - DKOU",
+        "description": "Trade show booth concept design and 3D visualization for DKOU congress",
+        "short_description": "Booth Concepts - 3D Design & Visualization",
+        "category": "Exhibition Design",
+        "tags": [
+          "Booth Concepts",
+          "3D Design & Visualization"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/dkou_booth_4.png"
+        ],
+        "project_url": "/highres/dkou_booth_4.png",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 60,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/dkou_booth_4.png"
+      },
+      {
+        "id": 284,
+        "title": "Trade Show Concept - Alternative Design",
+        "description": "Alternative booth design concept with innovative spatial arrangement",
+        "short_description": "Booth Concepts - Concept Variations",
+        "category": "Exhibition Design",
+        "tags": [
+          "Booth Concepts",
+          "Concept Variations"
+        ],
+        "technologies": [],
+        "images": [
+          "/images/New_Take_6.jpg"
+        ],
+        "project_url": "/highres/New_Take_6.jpg",
+        "github_url": null,
+        "demo_url": null,
+        "start_date": null,
+        "end_date": null,
+        "client": "Medartis AG",
+        "status": "completed",
+        "featured": 0,
+        "sort_order": 61,
+        "is_visible": 1,
+        "created_at": "2025-11-02 11:10:41",
+        "updated_at": "2025-11-02 11:25:22",
+        "image": "/images/New_Take_6.jpg"
+      }
+    ]
+  }
+}
