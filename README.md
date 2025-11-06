@@ -82,10 +82,38 @@ Chat with the AI assistant about Eduard's CV.
 }
 ```
 
-## After Deployment
+## Current Deployment
 
-You'll get a URL like: `https://your-project.vercel.app`
+**Live API URL**: `https://modern-cv-api.vercel.app`
 
-Your API endpoint will be: `https://your-project.vercel.app/api/chat`
+**API Endpoint**: `https://modern-cv-api.vercel.app/api/chat`
 
-Use this URL in your frontend configuration.
+This API is currently integrated with:
+- **Frontend**: [modern-cv-system](https://github.com/elor79/modern-cv-system)
+- **Admin System**: [enhanced-cv-system](https://github.com/elor79/enhanced-cv-system)
+
+## Configuration
+
+### Claude AI Model
+Currently using: `claude-3-haiku-20240307`
+
+To upgrade to a different model, edit `api/chat.js`:
+```javascript
+model: 'claude-3-haiku-20240307',  // Change this
+```
+
+Available models (check your Anthropic plan):
+- `claude-3-haiku-20240307` - Fast, cost-effective
+- `claude-3-sonnet-20240229` - Balanced performance
+- `claude-3-5-sonnet-20241022` - Most capable (requires appropriate plan)
+
+### Knowledge Base
+The CV data is stored in `/data/knowledge-base.json` and includes:
+- Personal information
+- Work experience
+- Skills and expertise
+- Portfolio projects
+- Testimonials
+- Education
+
+To update the knowledge base, edit `data/knowledge-base.json` and redeploy.
